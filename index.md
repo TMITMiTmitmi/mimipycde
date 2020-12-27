@@ -7,13 +7,12 @@
 <body>
     <h1>平安成电智慧出行（测试）</h1>
     <p>本网站仅供测试和学习使用，本人对您不正当的使用带来的一切问题不负任何责任</p>
-        <style type="text/css">
+    <style type="text/css">
     .myfont{
         font-size:200px;
     }
     </style>
     <a href="./平安成电智慧通行出.html" class=myfont>出校链接</a>
-
     <a href="./平安成电智慧通行入.html" class=myfont>入校链接</a>
 </body>
 </html>
